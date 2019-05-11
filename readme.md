@@ -1,6 +1,6 @@
 # 使用python写的一些算法题
 
-**题解会更新到我的博客里**
+**题解会更新到[我的博客](https://blog.csdn.net/lsc_333)里**
 
 ## leetcode
 1. 3Sum
@@ -17,4 +17,3 @@
 8. 1008
 9. 1009
 10. 1010
-sdasdasdasd
