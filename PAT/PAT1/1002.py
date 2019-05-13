@@ -5,8 +5,8 @@ res.append(0)
 posA=1
 posB=1
 while True:
-    if posA>=len(a):
-        if posB>=len(b):
+    if posA>=len(a):  #判断a是否加完
+        if posB>=len(b):  #判断b是否加完
             break
         else:
             res[0]+=1
@@ -20,8 +20,8 @@ while True:
             res.append(a[posA+1])
             posA+=2
         else:
-            if a[posA]==b[posB]:
-                if a[posA+1]+b[posB+1]!=0:
+            if a[posA]==b[posB]:    #如果ab指数相等
+                if a[posA+1]+b[posB+1]!=0:   #系数和不为0
                     res[0]+=1
                     res.append(a[posA])
                     res.append(a[posA+1]+b[posB+1])
