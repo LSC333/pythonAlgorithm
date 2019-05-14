@@ -9,7 +9,7 @@
 ### PAT1(甲级)
 1. [1001](https://blog.csdn.net/LSC_333/article/details/90144708)
 2. [1002](https://blog.csdn.net/LSC_333/article/details/90180525)
-3. 1003
+3. [1003](https://blog.csdn.net/LSC_333/article/details/90206368)
 4. 1004
 5. 1005
 6. 1006
