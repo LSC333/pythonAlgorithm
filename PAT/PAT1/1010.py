@@ -1,7 +1,8 @@
 def tran(s, n):
     res = 0
     for i in range(len(s) - 1, -1, -1):
-        res += (ord(s[i]) - ord('0') if s[i].isdigit() else ord(s[i]) - ord('a') + 10) * pow(n, len(s) - 1 - i)
+        res += (ord(s[i]) - ord('0') if s[i].isdigit() else
+                ord(s[i]) - ord('a') + 10) * pow(n, len(s) - 1 - i)
     return res
 
 
