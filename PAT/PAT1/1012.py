@@ -31,7 +31,6 @@ def solve():
             unit = students[line]
             temp = zip(unit.rank, ['0A', '1C', '2M', '3E'])
             temp = sorted(temp)
-            # print(temp)
             print(str(min(unit.rank)), temp[0][1][1])
         except:
             print('N/A')

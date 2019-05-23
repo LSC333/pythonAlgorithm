@@ -18,7 +18,7 @@
 9. [1009](https://blog.csdn.net/LSC_333/article/details/90379145)
 10. [1010](https://blog.csdn.net/LSC_333/article/details/90413142)
 11. [1011](https://blog.csdn.net/LSC_333/article/details/90450734)
-12. 1012
+12. [1012](https://blog.csdn.net/LSC_333/article/details/90487022)
 13. [1013](https://blog.csdn.net/LSC_333/article/details/90214169)
 这题python总有个测试点会超时，貌似是python输入的问题，这个博客里面有没ac的python版本和ac
 的c++版本
