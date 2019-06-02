@@ -20,8 +20,6 @@
 11. [1011](https://blog.csdn.net/LSC_333/article/details/90450734)
 12. [1012](https://blog.csdn.net/LSC_333/article/details/90487022)
 13. [1013](https://blog.csdn.net/LSC_333/article/details/90214169)
-这题python总有个测试点会超时，貌似是python输入的问题，这个博客里面有没ac的python版本和ac
-的c++版本
 14. [1014](https://blog.csdn.net/LSC_333/article/details/90246469)
 15. [1015](https://blog.csdn.net/LSC_333/article/details/90265345)
 16. [1016](https://blog.csdn.net/LSC_333/article/details/90319281)
@@ -46,3 +44,5 @@
 35. [1035](https://blog.csdn.net/LSC_333/article/details/90719669)
 36. [1036](https://blog.csdn.net/LSC_333/article/details/90726117)
 37. [1037](https://blog.csdn.net/LSC_333/article/details/90726662)
+38. [1038](https://blog.csdn.net/LSC_333/article/details/90740208)
+39. [1039](https://blog.csdn.net/LSC_333/article/details/90740779)
