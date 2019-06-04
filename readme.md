@@ -47,3 +47,5 @@
 38. [1038](https://blog.csdn.net/LSC_333/article/details/90740208)
 39. [1039](https://blog.csdn.net/LSC_333/article/details/90740779)
 40. [1040](https://blog.csdn.net/LSC_333/article/details/90758001)
+41. [1041](https://blog.csdn.net/LSC_333/article/details/90802815)
+42. [1042](https://blog.csdn.net/LSC_333/article/details/90812490)
