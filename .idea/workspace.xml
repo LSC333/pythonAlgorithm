@@ -6,8 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="565afcc8-9183-498f-a8ac-c0a5eb62f397" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/PAT/PAT1/1068.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAT/PAT1/1069.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAT/PAT1/1070.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
+              <first_editor relative-caret-position="388">
+                <caret line="77" column="65" selection-start-line="77" selection-start-column="65" selection-end-line="77" selection-end-column="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,19 +36,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PAT/PAT1/1068.py">
+        <entry file="file://$PROJECT_DIR$/PAT/PAT1/1070.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="33" lean-forward="true" selection-end-line="28" />
+            <state relative-caret-position="357">
+              <caret line="32" column="41" lean-forward="true" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PAT/PAT1/1067.py">
+        <entry file="file://$PROJECT_DIR$/PAT/PAT1/1069.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="11" column="22" lean-forward="true" selection-end-line="23" />
+            <state relative-caret-position="299">
+              <caret line="13" column="43" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -129,8 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/PAT/PAT1/1012.py" />
-        <option value="$PROJECT_DIR$/PAT/PAT1/1022.py" />
         <option value="$PROJECT_DIR$/PAT/PAT1/1023.py" />
         <option value="$PROJECT_DIR$/PAT/PAT1/1024.py" />
         <option value="$PROJECT_DIR$/PAT/PAT1/1025.py" />
@@ -178,8 +178,10 @@
         <option value="$PROJECT_DIR$/PAT/PAT1/1065.py" />
         <option value="$PROJECT_DIR$/PAT/PAT1/1066.py" />
         <option value="$PROJECT_DIR$/PAT/PAT1/1067.py" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/PAT/PAT1/1068.py" />
+        <option value="$PROJECT_DIR$/PAT/PAT1/1069.py" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/PAT/PAT1/1070.py" />
       </list>
     </option>
   </component>
@@ -197,7 +199,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,6 +221,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,51 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1068">
-    <configuration name="1064" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/PAT1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/PAT1/1064.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1065" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/PAT1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/PAT1/1065.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1070">
     <configuration name="1066" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -358,20 +316,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1069" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/PAT1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/PAT1/1069.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1070" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PAT/PAT1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PAT/PAT1/1070.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.1064" />
-      <item itemvalue="Python.1065" />
       <item itemvalue="Python.1066" />
       <item itemvalue="Python.1067" />
       <item itemvalue="Python.1068" />
+      <item itemvalue="Python.1069" />
+      <item itemvalue="Python.1070" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1070" />
+        <item itemvalue="Python.1069" />
         <item itemvalue="Python.1068" />
         <item itemvalue="Python.1067" />
         <item itemvalue="Python.1066" />
-        <item itemvalue="Python.1065" />
-        <item itemvalue="Python.1064" />
       </list>
     </recent_temporary>
   </component>
@@ -444,18 +446,19 @@
       <workItem from="1561355830714" duration="6319000" />
       <workItem from="1561430884885" duration="3293000" />
       <workItem from="1561523483680" duration="3657000" />
-      <workItem from="1561601966777" duration="7250000" />
+      <workItem from="1561601966777" duration="8002000" />
+      <workItem from="1561698762718" duration="5142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287415000" />
+    <option name="totallyTimeSpent" value="293309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10394456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10501066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -467,7 +470,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.29175705" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.29144096" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.69848156" />
@@ -564,6 +567,7 @@
     <SUITE FILE_PATH="coverage/algorithm$1034.coverage" NAME="1034 Coverage Results" MODIFIED="1559204382414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1063.coverage" NAME="1063 Coverage Results" MODIFIED="1561361410579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1005.coverage" NAME="1005 Coverage Results" MODIFIED="1557560465898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
+    <SUITE FILE_PATH="coverage/algorithm$1069.coverage" NAME="1069 Coverage Results" MODIFIED="1561700939936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1022.coverage" NAME="1022 Coverage Results" MODIFIED="1558695267279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1017.coverage" NAME="1017 Coverage Results" MODIFIED="1558243363790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1046.coverage" NAME="1046 Coverage Results" MODIFIED="1559792701902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
@@ -581,6 +585,7 @@
     <SUITE FILE_PATH="coverage/algorithm$1018.coverage" NAME="1018 Coverage Results" MODIFIED="1558341527260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1015.coverage" NAME="1015 Coverage Results" MODIFIED="1557991669594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1024.coverage" NAME="1024 Coverage Results" MODIFIED="1558711325023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
+    <SUITE FILE_PATH="coverage/algorithm$1070.coverage" NAME="1070 Coverage Results" MODIFIED="1561705044719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1027.coverage" NAME="1027 Coverage Results" MODIFIED="1558855447392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1036.coverage" NAME="1036 Coverage Results" MODIFIED="1559353158510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
     <SUITE FILE_PATH="coverage/algorithm$1064.coverage" NAME="1064 Coverage Results" MODIFIED="1561432044320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PAT/PAT1" />
@@ -637,14 +642,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PAT/PAT1/qwe.py" />
     <entry file="file://$PROJECT_DIR$/PAT/PAT1/1032.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
@@ -912,6 +909,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1068.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="33" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1067.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="22" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PAT/PAT1/1030.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -961,27 +972,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1067.py">
+    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1069.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="11" column="22" lean-forward="true" selection-end-line="23" />
+        <state relative-caret-position="299">
+          <caret line="13" column="43" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="75" column="65" selection-start-line="75" selection-start-column="65" selection-end-line="75" selection-end-column="65" />
+          <first_editor relative-caret-position="388">
+            <caret line="77" column="65" selection-start-line="77" selection-start-column="65" selection-end-line="77" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1068.py">
+    <entry file="file://$PROJECT_DIR$/PAT/PAT1/1070.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="33" lean-forward="true" selection-end-line="28" />
+        <state relative-caret-position="357">
+          <caret line="32" column="41" lean-forward="true" selection-end-line="39" />
         </state>
       </provider>
     </entry>
